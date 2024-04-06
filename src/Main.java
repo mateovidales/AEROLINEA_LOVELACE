@@ -8,7 +8,7 @@ import javax.swing.*;
 
 public class Main {
     public static void main(String[] args) {
-        
+
             String opcion = "";
 
             do {
@@ -127,7 +127,7 @@ public class Main {
                                                 "3. Buscar Reservas por Vuelo\n" +
                                                 "4. Actualizar asiento de una reserva\n" +
                                                 "5. Eliminar Reserva\n" +
-                                                "6. Salir");
+                                                "6. Salir.");
 
                                 switch (opcionReserva) {
                                     case "1":
